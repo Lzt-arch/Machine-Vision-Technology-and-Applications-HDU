@@ -1,0 +1,6 @@
+﻿硬币计数
+检测总数：10 枚硬币。
+配置：Release / x64，OpenCV 5.0.0
+
+Otsu threshold: 133
+Coins: 10
