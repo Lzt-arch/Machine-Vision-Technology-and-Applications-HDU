@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{0abfd4a6-59e1-499b-8ea3-7783e1909995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{20561f92-cdd7-4524-b16d-c385e1a4798f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="练习素材">
+      <UniqueIdentifier>{0a42bbdb-2843-4d46-988d-9bec94cce1cf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClInclude Include="ExerciseIO.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <None Include="assets\lt3.png">
+      <Filter>练习素材</Filter>
+    </None>
+  </ItemGroup>
+</Project>
