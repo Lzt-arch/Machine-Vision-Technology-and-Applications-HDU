@@ -1,0 +1,5 @@
+﻿回形针计数与标注
+检测总数：13 个回形针。
+配置：Release / x64，OpenCV 5.0.0
+
+Paper clips: 13
